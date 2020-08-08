@@ -48,6 +48,10 @@ To uninstall this mission, simple delete the ```ExpansionCOM.Valning``` mission 
 * Spawn in new items using the object spawner menu that can be found in the toolbar.
 * You can either enter values on the object editor gui or hover above the value with your mouse and use the scroll wheel to in-/decrease them.
 
+## Future Additions
+* Teleport Locations
+* Automatic .MAP creations
+
 ## Developers
 A special thanks to the following developers for their integral part on the development of the tools needed for this project.
 * [Cypher](https://github.com/CypherMediaGIT)
