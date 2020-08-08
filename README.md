@@ -38,3 +38,10 @@ If you run into an error after launching the included ```DayZCommunityOfflineMod
 * Middle Click to snap to ground (Might not be accurate)
 * Spawn in new items using the object spawner menu that can be found in the toolbar.
 * You can either enter values on the object editor gui or hover above the value with your mouse and use the scroll wheel to in-/decrease them.
+
+## Developers
+A special thanks to the following developers for their integral part on the development of the tools needed for this project.
+* [Cypher](https://github.com/CypherMediaGIT)
+* [Arkensor](https://github.com/Arkensor)
+* [DannyDog](https://github.com/DannyDog)
+* [Jacob_Mango](https://github.com/Jacob-Mango)
