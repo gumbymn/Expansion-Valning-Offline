@@ -14,12 +14,17 @@ The source of this map must be installed under your ```Steamapps\Common\DayZ\Mis
 * DayZ-Expansion-Licensed
 * BuilderItems
 * BuilderStatics
+* ValningMap
+
+Download the mission [here](https://github.com/gumbymn/ExpansionCOM.Valning/archive/master.zip) and extract to ```Steamapps\Common\DayZ\Missions```. If you do not have a ```Missions``` file, you will need to create one.
 
 To launch the game in Offline Mod, simply run the ```DayZCommunityOfflineMode.bat``` file in ```Steamapps\Common\DayZ\Missions\ExpansionCOM.Valning``` to start the game. 
 
 If you run into an error after launching the included ```DayZCommunityOfflineMode.bat```, copy the ```BuilderItems``` and ```BuilderStatics``` from ```!dzsal``` to ```!Workshop``` and launch the bat file again.
 
 **Even though this is not directly bannable by Battleye, just to make sure: Rename your Battleye folder to Battleye.disabled, and rename the DayZ_BE.exe to DayZ_BE.exe.disabled.**
+
+To uninstall this mission, simple delete the ```ExpansionCOM.Valning``` mission in ```Steamapps\Common\DayZ\Missions\ExpansionCOM.Valning``` and rename your .disabled folders back to their original name.
 
 ## Controls:
 * Y (Z for QWERTZ-Keyboard) - Open the COM toolbar menu.
@@ -49,3 +54,6 @@ A special thanks to the following developers for their integral part on the deve
 * [Arkensor](https://github.com/Arkensor)
 * [DannyDog](https://github.com/DannyDog)
 * [Jacob_Mango](https://github.com/Jacob-Mango)
+
+## Contributions
+This version of the Valning Offline map was developed by [gumbymn](https://github.com/gumbymn) using the latest DayZ Expansion mod. It als
