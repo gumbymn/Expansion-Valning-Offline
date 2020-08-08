@@ -1,2 +1,2 @@
 # ExpansionCOM.Valning
-DayZ Offline Mode for Valning Map (Expansion Ready)
+ Offline Mode for DayZ Valning Map (Expansion Ready)
