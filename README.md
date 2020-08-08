@@ -15,7 +15,11 @@ The source of this map must be installed under your ```Steamapps\Common\DayZ\Mis
 * BuilderItems
 * BuilderStatics
 
+To launch the game in Offline Mod, simply run the ```DayZCommunityOfflineMode.bat``` file in ```Steamapps\Common\DayZ\Missions\ExpansionCOM.Valning``` to start the game. 
+
 If you run into an error after launching the included ```DayZCommunityOfflineMode.bat```, copy the ```BuilderItems``` and ```BuilderStatics``` from ```!dzsal``` to ```!Workshop``` and launch the bat file again.
+
+** Even though this is not directly bannable by Battleye, just to make sure: Rename your Battleye folder to Battleye.disabled, and rename the DayZ_BE.exe to DayZ_BE.exe.disabled. **
 
 ## Controls:
 * Y (Z for QWERTZ-Keyboard) - Open the COM toolbar menu.
