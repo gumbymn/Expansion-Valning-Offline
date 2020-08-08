@@ -56,4 +56,4 @@ A special thanks to the following developers for their integral part on the deve
 * [Jacob_Mango](https://github.com/Jacob-Mango)
 
 ## Contributions
-This version of the Valning Offline map was developed by [gumbymn](https://github.com/gumbymn) using the latest DayZ Expansion mod. It als
+This version of the Valning Offline map was developed by [gumbymn](https://github.com/gumbymn) using the latest DayZ Expansion mod.
