@@ -8,12 +8,11 @@ This is UNOFFICIAL, so don't blame the DayZ development team if this is not work
 
 ## Installation
 The source of this map must be installed under your ```Steamapps\Common\DayZ\Missions``` directory. You must also have the following mods installed:
-#
-*Community Framework (CF)
-*Community Online Tools (COT)
-*DayZ-Expansion
-*DayZ-Expansion-Licensed
-*BuilderItems
-*BuilderStatics
+* Community Framework (CF)
+* Community Online Tools (COT)
+* DayZ-Expansion
+* DayZ-Expansion-Licensed
+* BuilderItems
+* BuilderStatics
 
 If you run into an error after launching the included ```DayZCommunityOfflineMode.bat```, copy the ```BuilderItems``` and ```BuilderStatics``` from ```!dzsal``` to ```!Workshop``` and launch the bat file again.
