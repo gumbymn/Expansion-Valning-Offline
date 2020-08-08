@@ -216,6 +216,8 @@ class CommunityOfflineClient : MissionGameplay
 		//! Offline Player Spawn
 		pPos = "6824.96 1.57712 2768.97";
 
+		// Additional Player Spawns
+
 		PlayerBase player;
 		Class.CastTo( player, GetGame().CreatePlayer( NULL, GetGame().CreateRandomPlayer(), pPos, 0, "NONE" ) );
 		GetGame().SelectPlayer( NULL, player );
