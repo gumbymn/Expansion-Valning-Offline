@@ -30,7 +30,7 @@ To uninstall this mission, simple delete the ```ExpansionCOM.Valning``` mission 
 * End - Activate COT Permissions
 * U - Open the COM toolbar menu.
 * Y - COT Menu
-* INSERT - Toggle free camera. This teleports your player to the position you looked at when turning it off
+* H - Teleport Player to Crosshair
 
 ## Object Editor Controls:  
 * Click objects to select them.  
