@@ -27,17 +27,9 @@ If you run into an error after launching the included ```DayZCommunityOfflineMod
 To uninstall this mission, simple delete the ```ExpansionCOM.Valning``` mission in ```Steamapps\Common\DayZ\Missions\ExpansionCOM.Valning``` and rename your .disabled folders back to their original name.
 
 ## Controls:
-* Y (Z for QWERTZ-Keyboard) - Open the COM toolbar menu.
-* X - Toggle Autojog/walk/run
-* X + SHIFT - Enable Autorun (Just X to disable it again)
-* X + CTRL - Enable Autowalk (Just X to disable it again)
-* END - Teleport at the position you are looking at
-* O - Spawn a random infected (Zombies)
-* O + CTRL - Spawn a wolf (Agressive and will fight both players and infected)
-* O + SHIFT - Spawn a random animal
-* R - Reload the weapon and refill the ammo (Infinite ammo)
-* P - Display your current position in the chat and print it to your logfiles (See logfiles section for their location)
-* B - Toggle debug monitor
+* End - Activate COT Permissions
+* U - Open the COM toolbar menu.
+* Y - COT Menu
 * INSERT - Toggle free camera. This teleports your player to the position you looked at when turning it off
 
 ## Object Editor Controls:  
