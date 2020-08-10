@@ -50,7 +50,7 @@ ________________________________________________________
 ________________________________________________________
 
 ## Future Additions
-* Teleport Locations (In Development)
+* Teleport Locations (**In Development**)
 * Automatic .MAP creations
 
 ________________________________________________________
