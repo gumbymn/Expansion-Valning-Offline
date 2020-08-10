@@ -10,8 +10,8 @@ This is UNOFFICIAL, so don't blame the DayZ development team if this is not work
 The source of this map must be installed under your ```Steamapps\Common\DayZ\Missions``` directory. You must also have the following mods installed:
 * Community Framework (CF)
 * Community Online Tools (COT)
-* DayZ-Expansion
-* DayZ-Expansion-Licensed
+* DayZ-Expansion (Or DayZ-Expansion-Experimental)
+* DayZ-Expansion-Licensed (Or DayZ-Expansion-Licensed-Experimental)
 * BuilderStatics
 * ValningMap
 
@@ -19,11 +19,15 @@ Download the mission [here](https://github.com/gumbymn/ExpansionCOM.Valning/arch
 
 To launch the game in Offline Mod, simply run the ```DayZCommunityOfflineMode.bat``` file in ```Steamapps\Common\DayZ\Missions\ExpansionCOM.Valning``` to start the game. 
 
-If you run into an error after launching the included ```DayZCommunityOfflineMode.bat```, copy the ```BuilderItems``` and ```BuilderStatics``` from ```!dzsal``` to ```!Workshop``` and launch the bat file again.
+If you run into an error after launching the included ```DayZCommunityOfflineMode.bat```, copy the ```BuilderStatics``` from ```!dzsal``` to ```!Workshop``` and launch the bat file again.
+
+If you run into an error after launching the included ```DayZCommunityOfflineMode(Exp).bat```, copy the ```BuilderStatics```, ```DayZ-Expansion-Experimental```, and ```DayZ-Expansion-Licensed-Experimental``` from ```!dzsal``` to ```!Workshop``` and launch the bat file again.
 
 **Even though this is not directly bannable by Battleye, just to make sure: Rename your Battleye folder to Battleye.disabled, and rename the DayZ_BE.exe to DayZ_BE.exe.disabled.**
 
 To uninstall this mission, simple delete the ```ExpansionCOM.Valning``` mission in ```Steamapps\Common\DayZ\Missions\ExpansionCOM.Valning``` and rename your .disabled folders back to their original name.
+
+**Note: This offline mission has been setup to utilitize both ```Expansion-Stable``` and ```Expansion-Experimental``` builds.**
 
 ## Controls:
 * End - Activate COT Permissions
