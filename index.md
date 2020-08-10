@@ -48,8 +48,6 @@ ________________________________________________________
 ## Future Additions
 * Teleport Locations (**In Development**)
 * Automatic .MAP creations
-
-**Status** ```Development```
 ________________________________________________________
 
 ## Developers
