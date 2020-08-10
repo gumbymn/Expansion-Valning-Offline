@@ -49,7 +49,7 @@ ________________________________________________________
 * Teleport Locations (**In Development**)
 * Automatic .MAP creations
 
-**Status:** ```Unofficial - Development```
+**Status** ```Development```
 ________________________________________________________
 
 ## Developers
