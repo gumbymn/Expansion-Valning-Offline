@@ -15,7 +15,7 @@ The source of this map must be installed under your ```Steamapps\Common\DayZ\Mis
 * BuilderStatics
 * ValningMap
 
-Download the mission [here](https://github.com/gumbymn/ExpansionCOM.Valning/archive/master.zip) and extract to ```Steamapps\Common\DayZ\Missions```. If you do not have a ```Missions``` file, you will need to create one.
+Download the mission [here](https://github.com/gumbymn/ExpansionCOM.Valning/blob/source/Latest.zip) and extract to ```Steamapps\Common\DayZ\Missions```. If you do not have a ```Missions``` file, you will need to create one.
 
 To launch the game in Offline Mod, simply run the ```DayZCommunityOfflineMode.bat``` file in ```Steamapps\Common\DayZ\Missions\ExpansionCOM.Valning``` to start the game. 
 
