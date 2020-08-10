@@ -25,7 +25,7 @@ If you run into an error after launching the included ```DayZCommunityOfflineMod
 
 To uninstall this mission, simple delete the ```ExpansionCOM.Valning``` mission in ```Steamapps\Common\DayZ\Missions\ExpansionCOM.Valning``` and rename your .disabled folders back to their original name.
 
-**Note: This offline mission has been setup to utilitize both ```Expansion-Stable``` and ```Expansion-Experimental``` builds. Use ```DayZCommunityOfflineMode.bat``` to launch Offline for ```Expansion-Stable``` or ```DayZCommunityOfflineMode(EXP).bat``` to launch Offline for ```Expansion-Experimental```.**
+**Note:** This offline mission has been setup to utilitize both ```Expansion-Stable``` and ```Expansion-Experimental``` builds. Use ```DayZCommunityOfflineMode.bat``` to launch Offline for ```Expansion-Stable``` or ```DayZCommunityOfflineMode(EXP).bat``` to launch Offline for ```Expansion-Experimental```.
 
 ## Controls:
 * End - Activate COT Permissions
