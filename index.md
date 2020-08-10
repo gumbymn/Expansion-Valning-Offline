@@ -2,7 +2,7 @@
  
 **Thank you to Arkensor for his Offline Mode, for without this this Offline editor would not be possible.**
 
-This Offline Mode Valning offers the ability to edit, or explore the world of DayZ in a singleplayer environment on the Valning Map. While this mode does not represent the actual DayZ gameplay, it offers other possibilites for developers, content creators and playerS who do want to experiment around but not loose all their progress from online.
+This COM Mission offers the ability to edit, or explore the world of DayZ in a singleplayer environment on the Valning Map. While this mode does not represent the actual DayZ gameplay, it offers other possibilites for developers, content creators and playerS who do want to experiment around but not loose all their progress from online.
 
 This is UNOFFICIAL, so don't blame the DayZ development team if this is not working at all for you! This source combines functionality of the DayZ Expansion Mod with Avoka's Valning Map.
 
