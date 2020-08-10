@@ -43,6 +43,7 @@ To uninstall this mission, simple delete the ```ExpansionCOM.Valning``` mission 
 ## Future Additions
 * Teleport Locations
 * Automatic .MAP creations
+* Add support for Experimental.
 
 ## Developers
 A special thanks to the following developers for their integral part on the development of the tools needed for this project.
@@ -53,4 +54,4 @@ A special thanks to the following developers for their integral part on the deve
 * [LieutenantMaster](https://github.com/LieutenantMaster)
 
 ## Contributions
-This version of the Valning Offline map was developed by [gumbymn](https://github.com/gumbymn) using the latest DayZ Expansion mod.
+This version of the Valning Offline map was developed by [gumbymn](https://github.com/gumbymn) using the latest DayZ Expansion mod. 
