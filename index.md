@@ -27,8 +27,6 @@ To uninstall this mission, simple delete the ```ExpansionCOM.Valning``` mission 
 
 **Note: This offline mission has been setup to utilitize both ```Expansion-Stable``` and ```Expansion-Experimental``` builds. Use ```DayZCommunityOfflineMode.bat``` to launch Offline for ```Expansion-Stable``` or ```DayZCommunityOfflineMode(EXP).bat``` to launch Offline for ```Expansion-Experimental```.**
 
-________________________________________________________
-
 ## Controls:
 * End - Activate COT Permissions
 * U - Open the COM toolbar menu.
@@ -43,12 +41,9 @@ ________________________________________________________
 * Spawn in new items using the object spawner menu that can be found in the toolbar.
 * You can either enter values on the object editor gui or hover above the value with your mouse and use the scroll wheel to in-/decrease them.
 
-________________________________________________________
-
 ## Future Additions
 * Teleport Locations (**In Development**)
 * Automatic .MAP creations
-________________________________________________________
 
 ## Developers
 A special thanks to the following developers for their integral part on the development of the tools needed for this project.
