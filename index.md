@@ -4,7 +4,9 @@
 
 This Offline Mode Valning offers the ability to edit, or explore the world of DayZ in a singleplayer environment on the Valning Map. While this mode does not represent the actual DayZ gameplay, it offers other possibilites for developers, content creators and playerS who do want to experiment around but not loose all their progress from online.
 
-This is UNOFFICIAL, so don't blame the DayZ development team if this is not working at all for you! This source combines functionality of the DayZ Expansion Mod with Avoka's Valning Map. 
+This is UNOFFICIAL, so don't blame the DayZ development team if this is not working at all for you! This source combines functionality of the DayZ Expansion Mod with Avoka's Valning Map.
+
+________________________________________________________
 
 ## Installation
 The source of this map must be installed under your ```Steamapps\Common\DayZ\Missions``` directory. You must also have the following mods installed:
@@ -27,7 +29,9 @@ If you run into an error after launching the included ```DayZCommunityOfflineMod
 
 To uninstall this mission, simple delete the ```ExpansionCOM.Valning``` mission in ```Steamapps\Common\DayZ\Missions\ExpansionCOM.Valning``` and rename your .disabled folders back to their original name.
 
-**Note: This offline mission has been setup to utilitize both ```Expansion-Stable``` and ```Expansion-Experimental``` builds.**
+**Note: This offline mission has been setup to utilitize both ```Expansion-Stable``` and ```Expansion-Experimental``` builds. Use ```DayZCommunityOfflineMode.bat``` to launch Offline for ```Expansion-Stable``` or ```DayZCommunityOfflineMode(EXP).bat``` to launch Offline for ```Expansion-Experimental```.**
+
+________________________________________________________
 
 ## Controls:
 * End - Activate COT Permissions
@@ -43,9 +47,13 @@ To uninstall this mission, simple delete the ```ExpansionCOM.Valning``` mission 
 * Spawn in new items using the object spawner menu that can be found in the toolbar.
 * You can either enter values on the object editor gui or hover above the value with your mouse and use the scroll wheel to in-/decrease them.
 
+________________________________________________________
+
 ## Future Additions
 * Teleport Locations (In Development)
 * Automatic .MAP creations
+
+________________________________________________________
 
 ## Developers
 A special thanks to the following developers for their integral part on the development of the tools needed for this project.
