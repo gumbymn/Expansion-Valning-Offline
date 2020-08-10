@@ -12,7 +12,6 @@ The source of this map must be installed under your ```Steamapps\Common\DayZ\Mis
 * Community Online Tools (COT)
 * DayZ-Expansion
 * DayZ-Expansion-Licensed
-* BuilderItems
 * BuilderStatics
 * ValningMap
 
