@@ -4,8 +4,7 @@
 
 This COM Mission offers the ability to edit, or explore the world of DayZ in a singleplayer environment on the Valning Map. It is developed for use with the ```DayZ-Expansion``` mod. While this mode does not represent the actual DayZ gameplay, it offers other possibilites for developers, content creators and playerS who do want to experiment around but not loose all their progress from online.
 
-**Note this map is Unofficial so do not blame the DayZ Development team if it is not working. As developer for this, I make no claim to the ownership. All rights belong to the original content creator, Avoka.**
-
+**Note: This map is ```Unofficial``` so do not blame the DayZ Development team if it is not working.**
 ________________________________________________________
 
 ## Installation
@@ -64,4 +63,4 @@ A special thanks to the following developers for their integral part on the deve
 * [LieutenantMaster](https://github.com/LieutenantMaster)
 
 ## Contributions
-This version of the Valning Offline map was developed by [gumbymn](https://github.com/gumbymn) using the latest DayZ Expansion mod.
+This version of the Valning Offline map was developed by [gumbymn](https://github.com/gumbymn) using the latest DayZ Expansion mod. As a contributor to this project, I claim no ownership. All rights belong to the content developer, **Avoka**.
