@@ -44,7 +44,7 @@ To uninstall this mission, simple delete the ```ExpansionCOM.Valning``` mission 
 * You can either enter values on the object editor gui or hover above the value with your mouse and use the scroll wheel to in-/decrease them.
 
 ## Future Additions
-* Teleport Locations
+* Teleport Locations (In Development)
 * Automatic .MAP creations
 
 ## Developers
