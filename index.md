@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## Expansion Offline Mode
+ 
+**Thank you to Arkensor for his Offline Mode, for without this this Offline editor would not be possible.**
 
-You can use the [editor on GitHub](https://github.com/gumbymn/Expansion-Valning-Offline/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This Offline Mode Valning offers the ability to edit, or explore the world of DayZ in a singleplayer environment on the Valning Map. While this mode does not represent the actual DayZ gameplay, it offers other possibilites for developers, content creators and playerS who do want to experiment around but not loose all their progress from online.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is UNOFFICIAL, so don't blame the DayZ development team if this is not working at all for you! This source combines functionality of the DayZ Expansion Mod with Avoka's Valning Map. 
 
-### Markdown
+## Installation
+The source of this map must be installed under your ```Steamapps\Common\DayZ\Missions``` directory. You must also have the following mods installed:
+* Community Framework (CF)
+* Community Online Tools (COT)
+* DayZ-Expansion
+* DayZ-Expansion-Licensed
+* BuilderItems
+* BuilderStatics
+* ValningMap
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Download the mission [here](https://github.com/gumbymn/ExpansionCOM.Valning/archive/master.zip) and extract to ```Steamapps\Common\DayZ\Missions```. If you do not have a ```Missions``` file, you will need to create one.
 
-```markdown
-Syntax highlighted code block
+To launch the game in Offline Mod, simply run the ```DayZCommunityOfflineMode.bat``` file in ```Steamapps\Common\DayZ\Missions\ExpansionCOM.Valning``` to start the game. 
 
-# Header 1
-## Header 2
-### Header 3
+If you run into an error after launching the included ```DayZCommunityOfflineMode.bat```, copy the ```BuilderItems``` and ```BuilderStatics``` from ```!dzsal``` to ```!Workshop``` and launch the bat file again.
 
-- Bulleted
-- List
+**Even though this is not directly bannable by Battleye, just to make sure: Rename your Battleye folder to Battleye.disabled, and rename the DayZ_BE.exe to DayZ_BE.exe.disabled.**
 
-1. Numbered
-2. List
+To uninstall this mission, simple delete the ```ExpansionCOM.Valning``` mission in ```Steamapps\Common\DayZ\Missions\ExpansionCOM.Valning``` and rename your .disabled folders back to their original name.
 
-**Bold** and _Italic_ and `Code` text
+## Controls:
+* End - Activate COT Permissions
+* U - Open the COM toolbar menu.
+* Y - COT Menu
+* H - Teleport Player to Crosshair
 
-[Link](url) and ![Image](src)
-```
+## Object Editor Controls:  
+* Click objects to select them.  
+* Click and drag objects to move them.
+* Click on nothing to deselect the current object.
+* Middle Click to snap to ground (Might not be accurate)
+* Spawn in new items using the object spawner menu that can be found in the toolbar.
+* You can either enter values on the object editor gui or hover above the value with your mouse and use the scroll wheel to in-/decrease them.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Future Additions
+* Teleport Locations
+* Automatic .MAP creations
 
-### Jekyll Themes
+## Developers
+A special thanks to the following developers for their integral part on the development of the tools needed for this project.
+* [Cypher](https://github.com/CypherMediaGIT)
+* [Arkensor](https://github.com/Arkensor)
+* [DannyDog](https://github.com/DannyDog)
+* [Jacob_Mango](https://github.com/Jacob-Mango)
+* [LieutenantMaster](https://github.com/LieutenantMaster)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gumbymn/Expansion-Valning-Offline/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contributions
+This version of the Valning Offline map was developed by [gumbymn](https://github.com/gumbymn) using the latest DayZ Expansion mod.
