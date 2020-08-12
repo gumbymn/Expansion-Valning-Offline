@@ -1,46 +1,31 @@
 ## Expansion Offline Mode
+![Offline](https://img.shields.io/badge/build-1.8121313-orange)
  
 **Thank you to Arkensor for his Offline Mode, for without this this Offline editor would not be possible.**
 
-This COM Mission offers the ability to edit, or explore the world of DayZ in a singleplayer environment on the Valning Map. It is developed for use with the ```DayZ-Expansion``` mod. While this mode does not represent the actual DayZ gameplay, it offers other possibilites for developers, content creators and playerS who do want to experiment around but not loose all their progress from online.
+This Offline Mode Valning offers the ability to edit, or explore the world of DayZ in a singleplayer environment on the Valning Map. While this mode does not represent the actual DayZ gameplay, it offers other possibilites for developers, content creators and playerS who do want to experiment around but not loose all their progress from online.
+
+This is UNOFFICIAL, so don't blame the DayZ development team if this is not working at all for you! This source combines functionality of the DayZ Expansion Mod with Avoka's Valning Map. 
 
 ## Installation
 The source of this map must be installed under your ```Steamapps\Common\DayZ\Missions``` directory. You must also have the following mods installed:
 * Community Framework (CF)
 * Community Online Tools (COT)
-* DayZ-Expansion (Or DayZ-Expansion-Experimental)
-* DayZ-Expansion-Licensed (Or DayZ-Expansion-Licensed-Experimental)
+* DayZ-Expansion
+* DayZ-Expansion-Licensed
+* BuilderItems
 * BuilderStatics
 * ValningMap
 
 Download the mission [here](https://github.com/gumbymn/ExpansionCOM.Valning/blob/source/Latest.zip) and extract to ```Steamapps\Common\DayZ\Missions```. If you do not have a ```Missions``` file, you will need to create one.
 
-To launch the game in Offline Mod, simply run the ```DayZCommunityOfflineMode.bat``` file in ```Steamapps\Common\DayZ\Missions\ExpansionCOM.Valning``` to start the game.
+To launch the game in Offline Mod, simply run the ```DayZCommunityOfflineMode.bat``` file in ```Steamapps\Common\DayZ\Missions\ExpansionCOM.Valning``` to start the game. 
 
-If you run into an error after launching the included batch file, copy the ```BuilderStatics``` from ```!dzsal``` to ```!Workshop``` and launch the bat file again.
-
-If you run into an error after launching the included ```DayZCommunityOfflineMode(Exp).bat```, copy the ```BuilderStatics```, ```DayZ-Expansion-Experimental```, and ```DayZ-Expansion-Licensed-Experimental``` from ```!dzsal``` to ```!Workshop``` and launch the bat file again.
+If you run into an error after launching the included ```DayZCommunityOfflineMode.bat```, copy the ```BuilderItems``` and ```BuilderStatics``` from ```!dzsal``` to ```!Workshop``` and launch the bat file again.
 
 **Even though this is not directly bannable by Battleye, just to make sure: Rename your Battleye folder to Battleye.disabled, and rename the DayZ_BE.exe to DayZ_BE.exe.disabled.**
 
 To uninstall this mission, simple delete the ```ExpansionCOM.Valning``` mission in ```Steamapps\Common\DayZ\Missions\ExpansionCOM.Valning``` and rename your .disabled folders back to their original name.
-
-**Note:** This offline mission has been setup to utilitize both ```Expansion-Stable``` and ```Expansion-Experimental``` builds. Use ```DayZCommunityOfflineMode.bat``` to launch Offline for ```Expansion-Stable``` or ```DayZCommunityOfflineMode(EXP).bat``` to launch Offline for ```Expansion-Experimental```.
-
-To utilize the expansion CE, edit the init.c file as seen below.
-```
-	//! Init server central economy
-	//Hive ce = CreateHive();
-	//if ( ce )
-	//ce.InitOffline();
-```
-and change to:
-```
-	//! Init server central economy
-	Hive ce = CreateHive();
-	if ( ce )
-	ce.InitOffline();
-```
 
 ## Controls:
 * End - Activate COT Permissions
@@ -56,9 +41,41 @@ and change to:
 * Spawn in new items using the object spawner menu that can be found in the toolbar.
 * You can either enter values on the object editor gui or hover above the value with your mouse and use the scroll wheel to in-/decrease them.
 
+## Using Expansion Custom Mapping
+After placing items where you want them saved, click Export in the builder menu. The items placed will be copied to your clipboard. Open your preferred text editor (Notepad, Notepad++, Visual Studio, Visual Studio Code) and paste the text (Example below). Save the file as ```SomeFile.map```. To use offline, place the file in ```expansion\objects```. 
+
+```
+ bldr_pier_concrete2|0000.000000 0000.000000 0000.000000|0000.000000 0.000000 0.000000
+ bldr_pier_concrete2|0000.000000 0000.000000 0000.000000|0000.000000 0.000000 0.000000
+ bldr_pier_concrete2|0000.000000 0000.000000 0000.000000|0000.000000 0.000000 0.000000
+ Land_Mil_ATC_Small|0000.000000 0000.000000 0000.000000|0000.000000 0.000000 0.000000
+ Land_Misc_Well_Pump_Blue|0000.000000 0000.000000 0000.000000|0.000000 0.000000 0.000000
+```
+
+To use these objects, copy the **```.map```** file to **```mpmissions\Expansion.Valning\expansion\objects```** and edit the ```init.c``` of your server from:
+```
+void main()
+{
+	bool loadTraderObjects = false;
+	bool loadTraderNPCs = false;
+```
+to
+```
+void main()
+{
+	bool loadTraderObjects = true;
+	bool loadTraderNPCs = false;
+```
+Restart the server. Your custom objects will now show. To add loot, simply uncomment the line in your ```init.c``` below:
+```
+//GetCEApi().ExportProxyData( "7500 0 7500", 16000 );  //Center of map, radius of how far to go out and find buildings.
+```
+Restart the server. After the ```init.c``` finishes loading, you should have a file called ```mapgrouppos.xml``` inside **```mpmissions\Expansion.Valning\storage_1\export```**. Copy this to ```mpmissions\Expansion.Valning``` and overwrite the existing file. Comment the line out again, and restart the server.
+
 ## Future Additions
-* Teleport Locations (**In Development**)
+* Teleport Locations
 * Automatic .MAP creations
+* ~~Add support for Experimental.~~ (Added)
 
 ## Developers
 A special thanks to the following developers for their integral part on the development of the tools needed for this project.
@@ -69,4 +86,4 @@ A special thanks to the following developers for their integral part on the deve
 * [LieutenantMaster](https://github.com/LieutenantMaster)
 
 ## Contributions
-This version of the Valning Offline map was developed by [gumbymn](https://github.com/gumbymn) using the latest DayZ Expansion mod. As a contributor to this project, I claim no ownership. All rights belong to the content developer, **Avoka**.
+This version of the Valning Offline map was developed by [gumbymn](https://github.com/gumbymn) using the latest DayZ Expansion mod. 
