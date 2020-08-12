@@ -43,7 +43,7 @@ To uninstall this mission, simple delete the ```ExpansionCOM.Valning``` mission 
 ## Future Additions
 * Teleport Locations
 * Automatic .MAP creations
-* Add support for Experimental.
+* ~~Add support for Experimental.~~ (Added)
 
 ## Developers
 A special thanks to the following developers for their integral part on the development of the tools needed for this project.
