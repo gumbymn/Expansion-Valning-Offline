@@ -1,5 +1,5 @@
 ## Expansion Offline Mode
-<br>![Offline](https://img.shields.io/badge/build-1.8121313-orange)
+![Offline](https://img.shields.io/badge/build-1.8121313-orange)
  
 **Thank you to Arkensor for his Offline Mode, for without this this Offline editor would not be possible.**
 
