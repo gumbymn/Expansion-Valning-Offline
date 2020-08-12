@@ -13,8 +13,8 @@ The source of this map must be installed under your ```Steamapps\Common\DayZ\Mis
 * Community Online Tools (COT)
 * DayZ-Expansion
 * DayZ-Expansion-Licensed
-* BuilderItems
 * BuilderStatics
+* BuilderItems (Future version removed as this is included with Expansion)
 * ValningMap
 
 Download the mission [here](https://github.com/gumbymn/ExpansionCOM.Valning/blob/source/Latest.zip) and extract to ```Steamapps\Common\DayZ\Missions```. If you do not have a ```Missions``` file, you will need to create one.
