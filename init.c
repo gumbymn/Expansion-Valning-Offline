@@ -28,7 +28,4 @@ void main()
 	Hive ce = CreateHive();
 	if ( ce )
 		ce.InitOffline();
-
-	// Enable custom loot
-	//GetCEApi().ExportProxyData( "7500 0 7500", 16000 );  //Center of map, radius of how far to go out and find buildings.
 }
