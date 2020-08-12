@@ -70,7 +70,7 @@ Restart the server. Your custom objects will now show. To add loot, simply uncom
 ```
 //GetCEApi().ExportProxyData( "7500 0 7500", 16000 );  //Center of map, radius of how far to go out and find buildings.
 ```
-Restart the server. After the ```init.c``` finishes loading, you should have a file called ```mapgrouppos.xml``` inside **```mpmissions\Expansion.Valning\storage_1\export```**. Copy this to ```mpmissions\Expansion.Valning``` and overwrite the existing file. Comment the line out again, and restart the server.
+Restart the server. After the ```init.c``` finishes loading, you should have a file called ```mapgrouppos.xml``` inside **```mpmissions\Expansion.Valning\storage_1\export```**. Copy this to ```mpmissions\Expansion.Valning``` and overwrite the existing file. Comment the line out again, and restart the server. You can also copy the ```mapgrouppos.xml``` to your mission file to copy that over to your Offline.
 
 ## Future Additions
 * Teleport Locations
