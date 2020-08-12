@@ -27,6 +27,21 @@ To uninstall this mission, simple delete the ```ExpansionCOM.Valning``` mission 
 
 **Note:** This offline mission has been setup to utilitize both ```Expansion-Stable``` and ```Expansion-Experimental``` builds. Use ```DayZCommunityOfflineMode.bat``` to launch Offline for ```Expansion-Stable``` or ```DayZCommunityOfflineMode(EXP).bat``` to launch Offline for ```Expansion-Experimental```.
 
+To utilize the expansion CE, edit the init.c file as seen below.
+```
+	//! Init server central economy
+	//Hive ce = CreateHive();
+	//if ( ce )
+	//ce.InitOffline();
+```
+and change to:
+```
+	//! Init server central economy
+	Hive ce = CreateHive();
+	if ( ce )
+	ce.InitOffline();
+```
+
 ## Controls:
 * End - Activate COT Permissions
 * U - Open the COM toolbar menu.
