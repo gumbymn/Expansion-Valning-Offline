@@ -52,6 +52,26 @@ After placing items where you want them saved, click Export in the builder menu.
  Land_Misc_Well_Pump_Blue|0000.000000 0000.000000 0000.000000|0.000000 0.000000 0.000000
 ```
 
+To use these objects, copy the **```.map```** file to **```mpmissions\Expansion.Valning\expansion\objects```** and edit the ```init.c``` of your server from:
+```
+void main()
+{
+	bool loadTraderObjects = false;
+	bool loadTraderNPCs = false;
+```
+to
+```
+void main()
+{
+	bool loadTraderObjects = true;
+	bool loadTraderNPCs = false;
+```
+Restart the server. Your custom objects will now show. To add loot, simply uncomment the line in your ```init.c``` below:
+```
+//GetCEApi().ExportProxyData( "7500 0 7500", 16000 );  //Center of map, radius of how far to go out and find buildings.
+```
+Restart the server. After the ```init.c``` finishes loading, you should have a file called ```mapgrouppos.xml``` inside **```mpmissions\Expansion.Valning\storage_1\export```**. Copy this to ```mpmissions\Expansion.Valning``` and overwrite the existing file. Comment the line out again, and restart the server.
+
 ## Future Additions
 * Teleport Locations
 * Automatic .MAP creations
