@@ -25,8 +25,8 @@ void main()
 	}
 	
 	//! Init server central economy
-	// Hive ce = CreateHive();
-	// if ( ce )
-	// 	ce.InitOffline();
+	Hive ce = CreateHive();
+	if ( ce )
+	ce.InitOffline();
 
 }
