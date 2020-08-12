@@ -41,6 +41,17 @@ To uninstall this mission, simple delete the ```ExpansionCOM.Valning``` mission 
 * Spawn in new items using the object spawner menu that can be found in the toolbar.
 * You can either enter values on the object editor gui or hover above the value with your mouse and use the scroll wheel to in-/decrease them.
 
+## Using Expansion Custom Mapping
+After placing items where you want them saved, click Export in the builder menu. The items placed will be copied to your clipboard. Open your preferred text editor (Notepad, Notepad++, Visual Studio, Visual Studio Code) and paste the text (Example below). Save the file as ```SomeFile.map```. To use offline, place the file in ```expansion\objects```. 
+
+```
+ bldr_pier_concrete2|0000.000000 0000.000000 0000.000000|0000.000000 0.000000 0.000000
+ bldr_pier_concrete2|0000.000000 0000.000000 0000.000000|0000.000000 0.000000 0.000000
+ bldr_pier_concrete2|0000.000000 0000.000000 0000.000000|0000.000000 0.000000 0.000000
+ Land_Mil_ATC_Small|0000.000000 0000.000000 0000.000000|0000.000000 0.000000 0.000000
+ Land_Misc_Well_Pump_Blue|0000.000000 0000.000000 0000.000000|0.000000 0.000000 0.000000
+```
+
 ## Future Additions
 * Teleport Locations
 * Automatic .MAP creations
