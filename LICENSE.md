@@ -181,7 +181,7 @@ that includes the required information.
 3. If requested by the Licensor, You must remove any of the information required by Section
 3(a)(1)(a) to the extent reasonably practicable.
 
-b. ShareAlike.
+b. **ShareAlike.**
 
 In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the
 following conditions also apply.
