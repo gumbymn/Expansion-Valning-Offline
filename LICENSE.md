@@ -193,6 +193,7 @@ following conditions also apply.
 
 <li>You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.</li>
 </ol>
+<br>
 ## Section 4 – Sui Generis Database Rights
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the
