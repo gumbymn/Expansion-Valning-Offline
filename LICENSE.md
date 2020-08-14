@@ -1,5 +1,4 @@
-#Arma and Dayz Public License Share Alike
-(ADPL-SA)
+# Arma and Dayz Public License Share Alike (ADPL-SA)
 
 ## Brief summary of this License
 
@@ -11,16 +10,16 @@ PROVISIONS ARE THOSE IN THE ORIGINAL AND FULL TEXT OF THIS LICENSE.
 With this license you are free to adapt (i.e. modify, rework or update) and share (i.e. copy,
 distribute or transmit) the material under the following conditions:
 
-	• Attribution — You must attribute the material in the manner specified by the
+	â€¢ Attribution â€” You must attribute the material in the manner specified by the
 	author or licensor (but not in any way that suggests that they endorse you or your
 	use of the material).
 
-	• Noncommercial — You may not use this material for any commercial purposes.
+	â€¢ Noncommercial â€” You may not use this material for any commercial purposes.
 
-	• Arma and Dayz Only - You may not convert or adapt this material to be used in
+	â€¢ Arma and Dayz Only - You may not convert or adapt this material to be used in
 	other games than Arma and Dayz.
 
-	• Share Alike — If you adapt, or build upon this material, you may distribute the
+	â€¢ Share Alike â€” If you adapt, or build upon this material, you may distribute the
 	resulting material only under the same license.
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the
@@ -30,7 +29,7 @@ Rights in consideration of Your acceptance of these terms and conditions, and th
 You such rights in consideration of benefits the Licensor receives from making the Licensed
 Material available under these terms and conditions.
 
-## Section 1 – Definitions
+## Section 1 â€“ Definitions
 
 	a. Adapted Material means material subject to Copyright and Similar Rights that is
 	derived from or based upon the Licensed Material and in which the Licensed
@@ -102,7 +101,7 @@ Material available under these terms and conditions.
 	n. You means the individual or entity exercising the Licensed Rights under this
 	Public License. Your has a corresponding meaning.
 
-## Section 2 – Scope
+## Section 2 â€“ Scope
 
 **a. License grant.**
 
@@ -131,14 +130,14 @@ Material available under these terms and conditions.
 	produces Adapted Material.
 
 	5. Downstream recipients.
-		a. Offer from the Licensor – Licensed Material. Every recipient of the Licensed
+		a. Offer from the Licensor â€“ Licensed Material. Every recipient of the Licensed
 		Material automatically receives an offer from the Licensor to exercise the
 		Licensed Rights under the terms and conditions of this Public License.
 
-		b. Additional offer from the Licensor – Adapted Material. Every recipient of
+		b. Additional offer from the Licensor â€“ Adapted Material. Every recipient of
 		Adapted Material from You automatically receives an offer from the Licensor to
 		exercise the Licensed Rights in the Adapted Material under the conditions of the
-		Adapter’s License You apply.
+		Adapterâ€™s License You apply.
 
 		c. No downstream restrictions. You may not offer or impose any additional or
 		different terms or conditions on, or apply any Effective Technological Measures
@@ -167,7 +166,7 @@ Material available under these terms and conditions.
 	Licensed Material is used other than for NonCommercial and ArmaAndDayzOnly
 	purposes.
 
-## Section 3 – License Conditions
+## Section 3 â€“ License Conditions
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
@@ -208,7 +207,7 @@ b. ShareAlike.
 In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the
 following conditions also apply.
 
-	1. The Adapter’s License You apply must be this Public License, or an Arma and Dayz
+	1. The Adapterâ€™s License You apply must be this Public License, or an Arma and Dayz
 	Public Share Alike Compatible License.
 
 	2. You must include the text of, or the URI or hyperlink to, the Adapter's License You
@@ -219,7 +218,7 @@ following conditions also apply.
 	any Effective Technological Measures to, Adapted Material that restrict exercise of the
 	rights granted under the Adapter's License You apply.
 
-## Section 4 – Sui Generis Database Rights
+## Section 4 â€“ Sui Generis Database Rights
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the
 Licensed Material:
@@ -239,7 +238,7 @@ Licensed Material:
 For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations
 under this Public License where the Licensed Rights include other Copyright and Similar Rights.
 
-## Section 5 – Disclaimer of Warranties and Limitation of
+## Section 5 â€“ Disclaimer of Warranties and Limitation of
 Liability
 
 	a. Unless otherwise separately undertaken by the Licensor, to the extent
@@ -264,7 +263,7 @@ Liability
 	interpreted in a manner that, to the extent possible, most closely approximates an
 	absolute disclaimer and waiver of all liability.
 
-## Section 6 – Term and Termination
+## Section 6 â€“ Term and Termination
 
 	a. This Public License applies for the term of the Copyright and Similar Rights
 	licensed here. However, if You fail to comply with this Public License, then Your
@@ -286,7 +285,7 @@ Liability
 
 		d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
 
-## Section 7 – Other Terms and Conditions
+## Section 7 â€“ Other Terms and Conditions
 
 	a. The Licensor shall not be bound by any additional or different terms or conditions
 	communicated by You unless expressly agreed.
@@ -295,7 +294,7 @@ Liability
 	not stated herein are separate from and independent of the terms and conditions of
 	this Public License.
 
-## Section 8 – Interpretation
+## Section 8 â€“ Interpretation
 
 	a. For the avoidance of doubt, this Public License does not, and shall not be
 	interpreted to, reduce, limit, restrict, or impose conditions on any use of the
@@ -329,5 +328,5 @@ Liability
 	b. Except for the limited purpose of indicating to the public that the Licensed
 	Material is shared under this Public License, Bohemia Interactive a.s. does not
 	authorize the use by either party of the trademarks "Arma", "Bohemia Interactive",
-	„Dayz“ or any related trademark or logo of Arma or Bohemia Interactive or Dayz
+	â€žDayzâ€œ or any related trademark or logo of Arma or Bohemia Interactive or Dayz
 	without the prior written consent of Bohemia Interactive a.s.
