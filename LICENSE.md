@@ -198,111 +198,57 @@ following conditions also apply.
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the
 Licensed Material:
+<ol><li>for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse,
+reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial and ArmaAndDayzOnly purposes only;</li>
 
-	a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse,
-	reproduce, and Share all or a substantial portion of the contents of the database for
-	NonCommercial and ArmaAndDayzOnly purposes only;
+<li>if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and</li>
 
-	b. if You include all or a substantial portion of the database contents in a database in
-	which You have Sui Generis Database Rights, then the database in which You
-	have Sui Generis Database Rights (but not its individual contents) is Adapted
-	Material, including for purposes of Section 3(b); and
-
-	c. You must comply with the conditions in Section 3(a) if You Share all or a
-	substantial portion of the contents of the database.
+<li>You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.</li></ol>
 
 For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations
 under this Public License where the Licensed Rights include other Copyright and Similar Rights.
 
 ## Section 5 – Disclaimer of Warranties and Limitation of
-Liability
+**Liability**
 
-	a. Unless otherwise separately undertaken by the Licensor, to the extent
-	possible, the Licensor offers the Licensed Material as-is and as-available, and
-	makes no representations or warranties of any kind concerning the Licensed
-	Material, whether express, implied, statutory, or other. This includes, without
-	limitation, warranties of title, merchantability, fitness for a particular
-	purpose, non-infringement, absence of latent or other defects, accuracy, or
-	the presence or absence of errors, whether or not known or discoverable.
-	Where disclaimers of warranties are not allowed in full or in part, this
-	disclaimer may not apply to You.
+<ol><li>Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.</li>
 
-	b. To the extent possible, in no event will the Licensor be liable to You on any
-	legal theory (including, without limitation, negligence) or otherwise for any
-	direct, special, indirect, incidental, consequential, punitive, exemplary, or
-	other losses, costs, expenses, or damages arising out of this Public License or
-	use of the Licensed Material, even if the Licensor has been advised of the
-	possibility of such losses, costs, expenses, or damages. Where a limitation of
-	liability is not allowed in full or in part, this limitation may not apply to You.
+<li>To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.</li>
 
-	c. The disclaimer of warranties and limitation of liability provided above shall be
-	interpreted in a manner that, to the extent possible, most closely approximates an
-	absolute disclaimer and waiver of all liability.
+<li>The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.</li><ol>
 
 ## Section 6 – Term and Termination
 
-	a. This Public License applies for the term of the Copyright and Similar Rights
-	licensed here. However, if You fail to comply with this Public License, then Your
-	rights under this Public License terminate automatically.
+<li>This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.</li>
 
-	b. Where Your right to use the Licensed Material has terminated under Section 6(a),
-	it reinstates:
+<li>Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
 
-		1. automatically as of the date the violation is cured, provided it is
-		cured within 30 days of Your discovery of the violation; or
+<ol><li>automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or</li>
 
-		2. upon express reinstatement by the Licensor.
-		For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor
-		may have to seek remedies for Your violations of this Public License.
+<li>upon express reinstatement by the Licensor.For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.</li>
 
-		c. For the avoidance of doubt, the Licensor may also offer the Licensed Material
-		under separate terms or conditions or stop distributing the Licensed Material at
-		any time; however, doing so will not terminate this Public License.
+<li>For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.</li>
 
-		d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
+<li>Sections 1, 5, 6, 7, and 8 survive termination of this Public License.</li></ol>
 
 ## Section 7 – Other Terms and Conditions
 
-	a. The Licensor shall not be bound by any additional or different terms or conditions
-	communicated by You unless expressly agreed.
+<li>The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.</li>
 
-	b. Any arrangements, understandings, or agreements regarding the Licensed Material
-	not stated herein are separate from and independent of the terms and conditions of
-	this Public License.
+<li>Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.</li>
 
 ## Section 8 – Interpretation
 
-	a. For the avoidance of doubt, this Public License does not, and shall not be
-	interpreted to, reduce, limit, restrict, or impose conditions on any use of the
-	Licensed Material that could lawfully be made without permission under this
-	Public License.
+<li>For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.</li>
 
-	b. To the extent possible, if any provision of this Public License is deemed
-	unenforceable, it shall be automatically reformed to the minimum extent necessary
-	to make it enforceable. If the provision cannot be reformed, it shall be severed
-	from this Public License without affecting the enforceability of the remaining
-	terms and conditions.
+<li>To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.</li>
 
-	c. No term or condition of this Public License will be waived and no failure to
-	comply consented to unless expressly agreed to by the Licensor.
+<li>No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.</li>
 
-	d. Nothing in this Public License constitutes or may be interpreted as a limitation
-	upon, or waiver of, any privileges and immunities that apply to the Licensor or
-	You, including from the legal processes of any jurisdiction or authority.
+<li>Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.</li>
 
 # Bohemia Interactive Notices
 
-	a. Bohemia Interactive a.s. is not a party to this License, and makes no warranty
-	whatsoever in connection with the Licensed Material. Bohemia Interactive a.s.
-	will not be liable to You or any party on any legal theory for any damages
-	whatsoever, including without limitation any general, special, incidental or
-	consequential damages arising in connection to this license. Notwithstanding the
-	foregoing two (2) sentences, Bohemia Interactive a.s. may elect to apply the
-	Public License to material it publishes and in those instances it becomes the
-	"Licensor".
+<li>Bohemia Interactive a.s. is not a party to this License, and makes no warranty whatsoever in connection with the Licensed Material. Bohemia Interactive a.s. will not be liable to You or any party on any legal theory for any damages whatsoever, including without limitation any general, special, incidental or consequential damages arising in connection to this license. Notwithstanding the foregoing two (2) sentences, Bohemia Interactive a.s. may elect to apply the Public License to material it publishes and in those instances it becomes the "Licensor".</li>
 
-	b. Except for the limited purpose of indicating to the public that the Licensed
-	Material is shared under this Public License, Bohemia Interactive a.s. does not
-	authorize the use by either party of the trademarks "Arma", "Bohemia Interactive",
-	„Dayz“ or any related trademark or logo of Arma or Bohemia Interactive or Dayz
-	without the prior written consent of Bohemia Interactive a.s.
+<li>Except for the limited purpose of indicating to the public that the Licensed Material is shared under this Public License, Bohemia Interactive a.s. does not authorize the use by either party of the trademarks "Arma", "Bohemia Interactive"","Dayz“ or any related trademark or logo of Arma or Bohemia Interactive or Dayz without the prior written consent of Bohemia Interactive a.s.</li>
