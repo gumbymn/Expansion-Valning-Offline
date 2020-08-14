@@ -229,7 +229,7 @@ under this Public License where the Licensed Rights include other Copyright and 
 
 <li>For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.</li>
 
-<li>Sections 1, 5, 6, 7, and 8 survive termination of this Public License.</li></ol></ol>
+<li>Sections 1, 5, 6, 7, and 8 survive termination of this Public License.</li></ol>
 
 ## Section 7 – Other Terms and Conditions
 <li>The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.</li>
