@@ -89,7 +89,7 @@ A special thanks to the following developers for their integral part on the deve
 This version of the Valning Offline map was developed by [gumbymn](https://github.com/gumbymn) using the latest DayZ Expansion mod. 
 
 # License
-![Build](https://img.shields.io/badge/License-ADPL--SA-green) 
+![Build](https://i.imgur.com/Z8KnJxS.png) 
 <br>Arma and Dayz Public License Share Alike (ADPL-SA) 
 
 PLEASE, NOTE THAT THIS SUMMARY HAS NO LEGAL EFFECT AND IS ONLY OF AN INFORMATORY NATURE DESIGNED FOR YOU TO GET THE BASIC INFORMATION ABOUT THE CONTENT OF THIS LICENCE. THE ONLY LEGALLY BINDING PROVISIONS ARE THOSE IN THE ORIGINAL AND FULL TEXT OF THIS LICENSE.
