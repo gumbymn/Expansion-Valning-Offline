@@ -1,7 +1,7 @@
-Arma and Dayz Public License Share Alike
+#Arma and Dayz Public License Share Alike
 (ADPL-SA)
 
-Brief summary of this License
+## Brief summary of this License
 
 PLEASE, NOTE THAT THIS SUMMARY HAS NO LEGAL EFFECT AND IS ONLY OF AN
 INFORMATORY NATURE DESIGNED FOR YOU TO GET THE BASIC INFORMATION
@@ -30,7 +30,7 @@ Rights in consideration of Your acceptance of these terms and conditions, and th
 You such rights in consideration of benefits the Licensor receives from making the Licensed
 Material available under these terms and conditions.
 
-Section 1 – Definitions
+## Section 1 – Definitions
 
 	a. Adapted Material means material subject to Copyright and Similar Rights that is
 	derived from or based upon the Licensed Material and in which the Licensed
@@ -102,9 +102,9 @@ Section 1 – Definitions
 	n. You means the individual or entity exercising the Licensed Rights under this
 	Public License. Your has a corresponding meaning.
 
-Section 2 – Scope
+## Section 2 – Scope
 
-a. License grant.
+**a. License grant.**
 
 	1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You
 	a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to
@@ -150,7 +150,7 @@ a. License grant.
 	connected with, or sponsored, endorsed, or granted official status by, the Licensor or
 	others designated to receive attribution as provided in Section 3(a)(1)(a)(i).
 	
-b. Other rights.
+**b.Other rights.**
 
 	1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor
 	are publicity, privacy, and/or other similar personality rights; however, to the extent
@@ -167,12 +167,14 @@ b. Other rights.
 	Licensed Material is used other than for NonCommercial and ArmaAndDayzOnly
 	purposes.
 
-Section 3 – License Conditions
+## Section 3 – License Conditions
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
 	a. Attribution.
+
 		1. If You Share the Licensed Material (including in modified form), You must:
+
 			a. retain the following if it is supplied by the Licensor with the Licensed Material:
 				i. identification of the creator(s) of the Licensed Material and any others
 				designated to receive attribution, in any reasonable manner requested by
@@ -217,7 +219,7 @@ following conditions also apply.
 	any Effective Technological Measures to, Adapted Material that restrict exercise of the
 	rights granted under the Adapter's License You apply.
 
-Section 4 – Sui Generis Database Rights
+## Section 4 – Sui Generis Database Rights
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the
 Licensed Material:
@@ -237,7 +239,7 @@ Licensed Material:
 For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations
 under this Public License where the Licensed Rights include other Copyright and Similar Rights.
 
-Section 5 – Disclaimer of Warranties and Limitation of
+## Section 5 – Disclaimer of Warranties and Limitation of
 Liability
 
 	a. Unless otherwise separately undertaken by the Licensor, to the extent
@@ -262,7 +264,7 @@ Liability
 	interpreted in a manner that, to the extent possible, most closely approximates an
 	absolute disclaimer and waiver of all liability.
 
-Section 6 – Term and Termination
+## Section 6 – Term and Termination
 
 	a. This Public License applies for the term of the Copyright and Similar Rights
 	licensed here. However, if You fail to comply with this Public License, then Your
@@ -284,7 +286,7 @@ Section 6 – Term and Termination
 
 		d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
 
-Section 7 – Other Terms and Conditions
+## Section 7 – Other Terms and Conditions
 
 	a. The Licensor shall not be bound by any additional or different terms or conditions
 	communicated by You unless expressly agreed.
@@ -293,7 +295,7 @@ Section 7 – Other Terms and Conditions
 	not stated herein are separate from and independent of the terms and conditions of
 	this Public License.
 
-Section 8 – Interpretation
+## Section 8 – Interpretation
 
 	a. For the avoidance of doubt, this Public License does not, and shall not be
 	interpreted to, reduce, limit, restrict, or impose conditions on any use of the
@@ -313,7 +315,7 @@ Section 8 – Interpretation
 	upon, or waiver of, any privileges and immunities that apply to the Licensor or
 	You, including from the legal processes of any jurisdiction or authority.
 
-Bohemia Interactive Notices
+# Bohemia Interactive Notices
 
 	a. Bohemia Interactive a.s. is not a party to this License, and makes no warranty
 	whatsoever in connection with the Licensed Material. Bohemia Interactive a.s.
