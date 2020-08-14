@@ -145,7 +145,7 @@ others designated to receive attribution as provided in Section 3(a)(1)(a)(i).</
 
 <li>Patent and trademark rights are not licensed under this Public License.</li>
 
-<li>To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for **NonCommercial** and **ArmaAndDayzOnly** purposes.</li></ol>
+<li>To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for `NonCommercial` and `ArmaAndDayzOnly` purposes.</li></ol>
 
 ## Section 3 – License Conditions
 
