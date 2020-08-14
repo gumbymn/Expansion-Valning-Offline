@@ -18,6 +18,8 @@ distribute or transmit) the material under the following conditions:
 
 * Share Alike — If you adapt, or build upon this material, you may distribute the resulting material only under the same license.
 
+_________________
+
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the
 terms and conditions of this Arma and Dayz Public License - Share Alike ("Public License"). To
 the extent this Public License may be interpreted as a contract, You are granted the Licensed
@@ -27,7 +29,7 @@ Material available under these terms and conditions.
 
 ## Section 1 – Definitions
 
-a. Adapted Material means material subject to Copyright and Similar Rights that is
+**a.** Adapted Material means material subject to Copyright and Similar Rights that is
 derived from or based upon the Licensed Material and in which the Licensed
 Material is translated, altered, arranged, transformed, or otherwise modified in a
 manner requiring permission under the Copyright and Similar Rights held by the
@@ -36,7 +38,7 @@ musical work, performance, or sound recording, Adapted Material is always
 produced where the Licensed Material is synched in timed relation with a moving
 image.
 
-b. Adapter's License means the license You apply to Your Copyright and Similar
+**b.** Adapter's License means the license You apply to Your Copyright and Similar
 Rights in Your contributions to Adapted Material in accordance with the terms
 and conditions of this Public License.
 
