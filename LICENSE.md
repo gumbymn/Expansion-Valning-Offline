@@ -155,7 +155,7 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 
 <br>If You Share the Licensed Material (including in modified form), You must:<ol>
 
-<li>a. retain the following if it is supplied by the Licensor with the Licensed Material</li>
+<li>retain the following if it is supplied by the Licensor with the Licensed Material</li>
 
 <ol><li>i. identification of the creator(s) of the Licensed Material and any others
 designated to receive attribution, in any reasonable manner requested by
