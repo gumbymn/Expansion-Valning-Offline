@@ -145,35 +145,33 @@ others designated to receive attribution as provided in Section 3(a)(1)(a)(i).</
 
 <li>Patent and trademark rights are not licensed under this Public License.</li>
 
-<li>To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for ```NonCommercial``` and ```ArmaAndDayzOnly``` purposes.</li></ol>
+<li>To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial and ArmaAndDayzOnly purposes.</li></ol>
 
 ## Section 3 – License Conditions
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
-	a. Attribution.
+<ol>a. Attribution.
 
-		1. If You Share the Licensed Material (including in modified form), You must:
+<ol>1. If You Share the Licensed Material (including in modified form), You must:
 
-			a. retain the following if it is supplied by the Licensor with the Licensed Material:
-				i. identification of the creator(s) of the Licensed Material and any others
-				designated to receive attribution, in any reasonable manner requested by
-				the Licensor (including by pseudonym if designated);
+<li>a. retain the following if it is supplied by the Licensor with the Licensed Material</li>
 
-				ii. a copyright notice;
+<ol><li>i. identification of the creator(s) of the Licensed Material and any others
+designated to receive attribution, in any reasonable manner requested by
+the Licensor (including by pseudonym if designated);
 
-				iii. a notice that refers to this Public License;
+<li>ii. a copyright notice;
 
-				iv. a notice that refers to the disclaimer of warranties;
+<li>iii. a notice that refers to this Public License;
 
-				v. a URI or hyperlink to the Licensed Material to the extent reasonably
-				practicable;
+<li>iv. a notice that refers to the disclaimer of warranties;
 
-			b. indicate if You modified the Licensed Material and retain an indication of any
-			previous modifications; and
+<li>v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;</li></ol>
 
-			c. indicate the Licensed Material is licensed under this Public License, and include
-			the text of, or the URI or hyperlink to, this Public License.
+<li>b. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and</li>
+
+<li>c. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.</li></ol>
 
 2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the
 medium, means, and context in which You Share the Licensed Material. For example, it
@@ -188,16 +186,11 @@ b. ShareAlike.
 In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the
 following conditions also apply.
 
-	1. The Adapter’s License You apply must be this Public License, or an Arma and Dayz
-	Public Share Alike Compatible License.
+1. The Adapter’s License You apply must be this Public License, or an Arma and Dayz Public Share Alike Compatible License.
 
-	2. You must include the text of, or the URI or hyperlink to, the Adapter's License You
-	apply. You may satisfy this condition in any reasonable manner based on the medium,
-	means, and context in which You Share Adapted Material.
+2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
 
-	3. You may not offer or impose any additional or different terms or conditions on, or apply
-	any Effective Technological Measures to, Adapted Material that restrict exercise of the
-	rights granted under the Adapter's License You apply.
+3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
 
 ## Section 4 – Sui Generis Database Rights
 
