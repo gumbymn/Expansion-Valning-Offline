@@ -6,7 +6,7 @@
 INFORMATORY NATURE DESIGNED FOR YOU TO GET THE BASIC INFORMATION
 ABOUT THE CONTENT OF THIS LICENCE. THE ONLY LEGALLY BINDING
 PROVISIONS ARE THOSE IN THE ORIGINAL AND FULL TEXT OF THIS LICENSE.*
-
+_________________
 With this license you are free to adapt (i.e. modify, rework or update) and share (i.e. copy,
 distribute or transmit) the material under the following conditions:
 
