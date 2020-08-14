@@ -101,22 +101,23 @@ Public License. Your has a corresponding meaning.
 
 **a. License grant.**
 
-	1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You
-	a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to
-	exercise the Licensed Rights in the Licensed Material to:
-		a. reproduce and Share the Licensed Material, in whole or in part, for
-		NonCommercial and ArmaAndDayzOnly purposes only; and
+<ol>1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You
+a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to
+exercise the Licensed Rights in the Licensed Material to:
 
-		b. produce, reproduce, and Share Adapted Material for NonCommercial and
-		ArmaAndDayzOnly purposes only.
+<li>a. reproduce and Share the Licensed Material, in whole or in part, for
+NonCommercial and ArmaAndDayzOnly purposes only; and</li>
 
-	2. Exceptions and Limitations. For the avoidance of doubt, where Exceptions and
-	Limitations apply to Your use, this Public License does not apply, and You do not need to
-	comply with its terms and conditions.
+<li>b. produce, reproduce, and Share Adapted Material for NonCommercial and
+ArmaAndDayzOnly purposes only.</li></ol>
 
-	3. Term. The term of this Public License is specified in Section 6(a).
+2. Exceptions and Limitations. For the avoidance of doubt, where Exceptions and
+Limitations apply to Your use, this Public License does not apply, and You do not need to
+comply with its terms and conditions.
 
-	4. Media and formats; technical modifications allowed. The Licensor authorizes You to
+3. Term. The term of this Public License is specified in Section 6(a).
+
+4. Media and formats; technical modifications allowed. The Licensor authorizes You to
 	exercise the Licensed Rights in all media and formats whether now known or hereafter
 	created, and to make technical modifications necessary to do so. The Licensor waives
 	and/or agrees not to assert any right or authority to forbid You from making technical
