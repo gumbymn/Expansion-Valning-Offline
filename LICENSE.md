@@ -151,7 +151,7 @@ others designated to receive attribution as provided in Section 3(a)(1)(a)(i).</
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
-<ol>a. Attribution.
+<ol>a. Attribution.<br>
 
 If You Share the Licensed Material (including in modified form), You must:<ol>
 
