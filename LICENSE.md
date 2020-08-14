@@ -139,22 +139,22 @@ permission to assert or imply that You are, or that Your use of the Licensed Mat
 connected with, or sponsored, endorsed, or granted official status by, the Licensor or
 others designated to receive attribution as provided in Section 3(a)(1)(a)(i).</ol>
 	
-**b.Other rights.**
+**b. Other rights.**
 
-	1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor
-	are publicity, privacy, and/or other similar personality rights; however, to the extent
-	possible, the Licensor waives and/or agrees not to assert any such rights held by the 
-	Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but
-	not otherwise.
+1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor
+are publicity, privacy, and/or other similar personality rights; however, to the extent
+possible, the Licensor waives and/or agrees not to assert any such rights held by the 
+Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but
+not otherwise.
 
-	2. Patent and trademark rights are not licensed under this Public License.
+2. Patent and trademark rights are not licensed under this Public License.
 
-	3. To the extent possible, the Licensor waives any right to collect royalties from You for the
-	exercise of the Licensed Rights, whether directly or through a collecting society under
-	any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the
-	Licensor expressly reserves any right to collect such royalties, including when the
-	Licensed Material is used other than for NonCommercial and ArmaAndDayzOnly
-	purposes.
+3. To the extent possible, the Licensor waives any right to collect royalties from You for the
+exercise of the Licensed Rights, whether directly or through a collecting society under
+any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the
+Licensor expressly reserves any right to collect such royalties, including when the
+Licensed Material is used other than for NonCommercial and ArmaAndDayzOnly
+purposes.
 
 ## Section 3 – License Conditions
 
