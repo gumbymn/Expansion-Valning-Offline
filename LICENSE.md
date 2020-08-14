@@ -219,9 +219,9 @@ under this Public License where the Licensed Rights include other Copyright and 
 
 ## Section 6 – Term and Termination
 
-<li>This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.</li>
+This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.<
 
-<li>Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
+Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
 
 <ol><li>automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or</li>
 
