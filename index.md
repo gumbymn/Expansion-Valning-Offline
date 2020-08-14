@@ -1,4 +1,4 @@
-## Expansion Offline Mode
+# Expansion Offline Mode
 ![Offline](https://img.shields.io/badge/build-1.8121313-orange)
  
 **Thank you to Arkensor for his Offline Mode, for without this this Offline editor would not be possible.**
@@ -87,3 +87,18 @@ A special thanks to the following developers for their integral part on the deve
 
 ## Contributions
 This version of the Valning Offline map was developed by [gumbymn](https://github.com/gumbymn) using the latest DayZ Expansion mod. 
+
+# License
+![Build](https://img.shields.io/badge/License-ADPL--SA-green) 
+<br>Arma and Dayz Public License Share Alike (ADPL-SA) 
+
+PLEASE, NOTE THAT THIS SUMMARY HAS NO LEGAL EFFECT AND IS ONLY OF AN INFORMATORY NATURE DESIGNED FOR YOU TO GET THE BASIC INFORMATION ABOUT THE CONTENT OF THIS LICENCE. THE ONLY LEGALLY BINDING PROVISIONS ARE THOSE IN THE ORIGINAL AND FULL TEXT OF THIS LICENSE.
+
+With this license you are free to adapt (i.e. modify, rework or update) and share (i.e. copy, distribute or transmit) the material under the following conditions:
+
+<ul><li>Attribution - You must attribute the material in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the material).</li>
+<li>Noncommercial - You may not use this material for any commercial purposes.</li>
+<li>Arma and Dayz Only - You may not convert or adapt this material to be used in other games than Arma and Dayz.</li>
+<li>Share Alike - If you adapt, or build upon this material, you may distribute the resulting material only under the same license.</li></ul>
+
+Full text: [https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa](https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa)
