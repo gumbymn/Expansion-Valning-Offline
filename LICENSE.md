@@ -157,21 +157,21 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 
 <li>retain the following if it is supplied by the Licensor with the Licensed Material</li>
 
-<ol><li>i. identification of the creator(s) of the Licensed Material and any others
+<ol><li>identification of the creator(s) of the Licensed Material and any others
 designated to receive attribution, in any reasonable manner requested by
 the Licensor (including by pseudonym if designated);
 
-<li>ii. a copyright notice;
+<li>a copyright notice;
 
-<li>iii. a notice that refers to this Public License;
+<li>a notice that refers to this Public License;
 
-<li>iv. a notice that refers to the disclaimer of warranties;
+<li>a notice that refers to the disclaimer of warranties;
 
-<li>v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;</li></ol>
+<li>a URI or hyperlink to the Licensed Material to the extent reasonably practicable;</li></ol>
 
-<li> indicate if You modified the Licensed Material and retain an indication of any previous modifications; and</li>
+<li>indicate if You modified the Licensed Material and retain an indication of any previous modifications; and</li>
 
-<li> indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.</li></ol>
+<li>indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.</li></ol>
 
 2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the
 medium, means, and context in which You Share the Licensed Material. For example, it
