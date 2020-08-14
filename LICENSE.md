@@ -183,14 +183,14 @@ that includes the required information.
 
 b. **ShareAlike.**
 
-In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the
+<br>In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the
 following conditions also apply.
 
-1. The Adapter’s License You apply must be this Public License, or an Arma and Dayz Public Share Alike Compatible License.
+<li>The Adapter’s License You apply must be this Public License, or an Arma and Dayz Public Share Alike Compatible License.</li>
 
-2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
+<li>You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.</li>
 
-3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
+<li>You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.</li>
 
 ## Section 4 – Sui Generis Database Rights
 
