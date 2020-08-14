@@ -105,10 +105,10 @@ Public License. Your has a corresponding meaning.
 a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to
 exercise the Licensed Rights in the Licensed Material to:
 
-<li>a. reproduce and Share the Licensed Material, in whole or in part, for
+<li>reproduce and Share the Licensed Material, in whole or in part, for
 NonCommercial and ArmaAndDayzOnly purposes only; and</li>
 
-<li>b. produce, reproduce, and Share Adapted Material for NonCommercial and
+<li>produce, reproduce, and Share Adapted Material for NonCommercial and
 ArmaAndDayzOnly purposes only.</li></ol>
 
 2. Exceptions and Limitations. For the avoidance of doubt, where Exceptions and
