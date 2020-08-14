@@ -248,6 +248,8 @@ Where Your right to use the Licensed Material has terminated under Section 6(a),
 
 # Bohemia Interactive Notices
 
-<li>Bohemia Interactive a.s. is not a party to this License, and makes no warranty whatsoever in connection with the Licensed Material. Bohemia Interactive a.s. will not be liable to You or any party on any legal theory for any damages whatsoever, including without limitation any general, special, incidental or consequential damages arising in connection to this license. Notwithstanding the foregoing two (2) sentences, Bohemia Interactive a.s. may elect to apply the Public License to material it publishes and in those instances it becomes the "Licensor".</li>
+<ol><li>Bohemia Interactive a.s. is not a party to this License, and makes no warranty whatsoever in connection with the Licensed Material. Bohemia Interactive a.s. will not be liable to You or any party on any legal theory for any damages whatsoever, including without limitation any general, special, incidental or consequential damages arising in connection to this license. Notwithstanding the foregoing two (2) sentences, Bohemia Interactive a.s. may elect to apply the Public License to material it publishes and in those instances it becomes the "Licensor".</li>
 
-<li>Except for the limited purpose of indicating to the public that the Licensed Material is shared under this Public License, Bohemia Interactive a.s. does not authorize the use by either party of the trademarks "Arma", "Bohemia Interactive"","Dayz“ or any related trademark or logo of Arma or Bohemia Interactive or Dayz without the prior written consent of Bohemia Interactive a.s.</li>
+<li>Except for the limited purpose of indicating to the public that the Licensed Material is shared under this Public License, Bohemia Interactive a.s. does not authorize the use by either party of the trademarks "Arma", "Bohemia Interactive"","Dayz“ or any related trademark or logo of Arma or Bohemia Interactive or Dayz without the prior written consent of Bohemia Interactive a.s.</li></ol>
+
+`Updated **August 2020**`
