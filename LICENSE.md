@@ -232,7 +232,6 @@ under this Public License where the Licensed Rights include other Copyright and 
 <li>Sections 1, 5, 6, 7, and 8 survive termination of this Public License.</li></ol></ol>
 
 ## Section 7 – Other Terms and Conditions
-<ol>
 <li>The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.</li>
 
 <li>Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.</li></ol>
