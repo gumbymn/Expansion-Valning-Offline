@@ -252,4 +252,4 @@ Where Your right to use the Licensed Material has terminated under Section 6(a),
 
 <li>Except for the limited purpose of indicating to the public that the Licensed Material is shared under this Public License, Bohemia Interactive a.s. does not authorize the use by either party of the trademarks "Arma", "Bohemia Interactive"","Dayz“ or any related trademark or logo of Arma or Bohemia Interactive or Dayz without the prior written consent of Bohemia Interactive a.s.</li></ol>
 
-<br><sub>Updated **August 2020**</sub>
+<br><sup>Updated **August 2020**</sup>
