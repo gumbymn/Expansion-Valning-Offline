@@ -82,7 +82,7 @@ Copyright and Similar Rights by digital file-sharing or similar means is
 NonCommercial provided there is no payment of monetary compensation in
 connection with the exchange.
 
-**l. Share means to provide material to the public by any means or process that
+**l.**  Share means to provide material to the public by any means or process that
 requires permission under the Licensed Rights, such as reproduction, public
 display, public performance, distribution, dissemination, communication, or
 importation, and to make material available to the public including in ways that
