@@ -27,14 +27,14 @@ Material available under these terms and conditions.
 
 ## Section 1 – Definitions
 
-	a. Adapted Material means material subject to Copyright and Similar Rights that is
-	derived from or based upon the Licensed Material and in which the Licensed
-	Material is translated, altered, arranged, transformed, or otherwise modified in a
-	manner requiring permission under the Copyright and Similar Rights held by the
-	Licensor. For purposes of this Public License, where the Licensed Material is a
-	musical work, performance, or sound recording, Adapted Material is always
-	produced where the Licensed Material is synched in timed relation with a moving
-	image.
+* a. Adapted Material means material subject to Copyright and Similar Rights that is
+derived from or based upon the Licensed Material and in which the Licensed
+Material is translated, altered, arranged, transformed, or otherwise modified in a
+manner requiring permission under the Copyright and Similar Rights held by the
+Licensor. For purposes of this Public License, where the Licensed Material is a
+musical work, performance, or sound recording, Adapted Material is always
+produced where the Licensed Material is synched in timed relation with a moving
+image.
 
 	b. Adapter's License means the license You apply to Your Copyright and Similar
 	Rights in Your contributions to Adapted Material in accordance with the terms
