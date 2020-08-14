@@ -169,9 +169,9 @@ the Licensor (including by pseudonym if designated);
 
 <li>v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;</li></ol>
 
-<li>b. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and</li>
+<li> indicate if You modified the Licensed Material and retain an indication of any previous modifications; and</li>
 
-<li>c. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.</li></ol>
+<li> indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.</li></ol>
 
 2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the
 medium, means, and context in which You Share the Licensed Material. For example, it
